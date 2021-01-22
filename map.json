@@ -37,7 +37,6 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/wasreligionslehrersomachen\/4zsvevxjgnqe"
                  "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/religionsraum2\/map.json"
                 }],
          "type":"tilelayer",
