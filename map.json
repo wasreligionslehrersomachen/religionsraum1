@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/religionsraum2\/map.json"
                 }],
