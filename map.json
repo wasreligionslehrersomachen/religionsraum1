@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/scratch.mit.edu\/projects\/391352293\/"
+                 "value":"https:\/\/scratch.mit.edu\/projects\/391352293\/embed"
                 }],
          "type":"tilelayer",
          "visible":true,
