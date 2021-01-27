@@ -321,6 +321,12 @@
          "id":30,
          "name":"Station15",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/www.youtube.com\/embed\/pqiQNSc3qKg?rel=0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
