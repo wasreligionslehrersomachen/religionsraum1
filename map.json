@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/I1bA-uUvBao?start=1193?rel=0"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/I1bA-uUvBao?start=1193"
                 }],
          "type":"tilelayer",
          "visible":true,
