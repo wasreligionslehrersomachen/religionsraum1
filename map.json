@@ -325,7 +325,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/www.youtube.com\/embed\/pqiQNSc3qKg?rel=0"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/pqiQNSc3qKg?rel=0"
                 }],
          "type":"tilelayer",
          "visible":true,
