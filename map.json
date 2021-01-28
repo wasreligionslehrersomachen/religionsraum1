@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Kartei-10-Sadduzaeer.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/28\/station-1\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Station-10-Pharisaeer-und-Sadduzaeer-formular.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/28\/station-2\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Tora.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/28\/station-3\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/tora1.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/28\/station-4\/"
                 }],
          "type":"tilelayer",
          "visible":true,
