@@ -329,7 +329,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"open Website",
+                 "name":"openWebsite",
                  "type":"file",
                  "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/28\/station-12\/"
                 }],
